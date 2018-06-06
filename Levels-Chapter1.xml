@@ -1,0 +1,10 @@
+<Levels>
+	<Level>
+        <Name>Chapter1Level1</Name>
+		<Number>1</Number>
+        <Unlocked>0</Unlocked>
+        <Stars>0</Stars>
+        <Data>fire-2,plant-2,lion-2,elephant-2,water-2,frigde-2,hat-1,pants-1,pjs-1,raincoat-1,shirt-1,sneakers-1,socks-1,toothpaste-1</Data>
+    <Description>Hello</Description>
+    </Level>
+    </Levels>

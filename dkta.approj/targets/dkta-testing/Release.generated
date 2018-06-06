@@ -1,0 +1,3311 @@
+{
+    "assets": [
+        {
+            "asset": "dkta/Resources/icons/Icon-Small-50.png", 
+            "target": "Icon-Small-50.png"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_cpart.plist", 
+            "target": "13Match_cpart.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/audio/car.mp3", 
+            "target": "car.mp3"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/BOXPuzzle15-hd.plist", 
+            "target": "BOXPuzzle15-hd.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/cityscape7_sprites.pvr.ccz", 
+            "target": "cityscape7_sprites.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/audio/pg08.mp3", 
+            "target": "pg08.mp3"
+        }, 
+        {
+            "asset": "dkta/Resources/noise1.png", 
+            "target": "noise1.png"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/luggageANIMATION16.pvr.ccz", 
+            "target": "luggageANIMATION16.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/icons/Icon-100.png", 
+            "target": "Icon-100.png"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/StoryTextTraveler2-ipadhd.plist", 
+            "target": "StoryTextTraveler2-ipadhd.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/noise1-ipadhd.png", 
+            "target": "noise1-ipadhd.png"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_bpart-hd.pvr.ccz", 
+            "target": "13Match_bpart-hd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/es.lproj/Localizable.strings", 
+            "target": "es.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "dkta/Resources/audio/pg07.mp3", 
+            "target": "pg07.mp3"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/luggageANIMATION16-ipadhd.pvr.ccz", 
+            "target": "luggageANIMATION16-ipadhd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/iTunesArtwork", 
+            "target": "iTunesArtwork"
+        }, 
+        {
+            "asset": "dkta/Resources/icons/Icon-120.png", 
+            "target": "Icon-120.png"
+        }, 
+        {
+            "asset": "dkta/libs/kazmath/src/ChangeLog", 
+            "target": "ChangeLog"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_bpart-ipadhd.plist", 
+            "target": "13Match_bpart-ipadhd.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/citybackgroundJ.png", 
+            "target": "citybackgroundJ.png"
+        }, 
+        {
+            "asset": "dkta/GameData.xml", 
+            "target": "GameData.xml"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/luggageANIMATION16-hd.pvr.ccz", 
+            "target": "luggageANIMATION16-hd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_apart-hd.pvr.ccz", 
+            "target": "13Match_apart-hd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/launch/Default@2x.png", 
+            "target": "Default@2x.png"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/PIECESpuzzle15.plist", 
+            "target": "PIECESpuzzle15.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/icons/Icon-Small@2x.png", 
+            "target": "Icon-Small@2x.png"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_apart.plist", 
+            "target": "13Match_apart.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_apart-ipadhd.pvr.ccz", 
+            "target": "13Match_apart-ipadhd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/StoryObjects9-ipadhd.pvr.ccz", 
+            "target": "StoryObjects9-ipadhd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/PIECESpuzzle15-ipadhd.plist", 
+            "target": "PIECESpuzzle15-ipadhd.plist"
+        }, 
+        {
+            "asset": "dkta/Levels-Chapter2.xml", 
+            "target": "Levels-Chapter2.xml"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/cityscape7_sprites-ipadhd.pvr.ccz", 
+            "target": "cityscape7_sprites-ipadhd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/luggageITEMS13-ipadhd.pvr.ccz", 
+            "target": "luggageITEMS13-ipadhd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/StoryTextTraveler2.pvr.ccz", 
+            "target": "StoryTextTraveler2.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/luggageANIMATION16-ipadhd.plist", 
+            "target": "luggageANIMATION16-ipadhd.plist"
+        }, 
+        {
+            "asset": "dkta/Levels-Chapter4.xml", 
+            "target": "Levels-Chapter4.xml"
+        }, 
+        {
+            "asset": "dkta/Resources/launch/Default-Landscape~ipad.png", 
+            "target": "Default-Landscape~ipad.png"
+        }, 
+        {
+            "asset": "dkta/Levels-Chapter1.xml", 
+            "target": "Levels-Chapter1.xml"
+        }, 
+        {
+            "asset": "dkta/Resources/en.lproj/Localizable.strings", 
+            "target": "en.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_bpart-ipadhd.pvr.ccz", 
+            "target": "13Match_bpart-ipadhd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/icons/Icon-Small.png", 
+            "target": "Icon-Small.png"
+        }, 
+        {
+            "asset": "dkta/Resources/citybackgroundJ-ipadhd.png", 
+            "target": "citybackgroundJ-ipadhd.png"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_cpart-hd.plist", 
+            "target": "13Match_cpart-hd.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/HUDSPRITES12-ipadhd.pvr.ccz", 
+            "target": "HUDSPRITES12-ipadhd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/icons/Icon@2x.png", 
+            "target": "Icon@2x.png"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/StoryTextTraveler2.plist", 
+            "target": "StoryTextTraveler2.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/noise1-hd.png", 
+            "target": "noise1-hd.png"
+        }, 
+        {
+            "asset": "dkta/Resources/r2.png", 
+            "target": "r2.png"
+        }, 
+        {
+            "asset": "dkta/Levels-Chapter3.xml", 
+            "target": "Levels-Chapter3.xml"
+        }, 
+        {
+            "asset": "dkta/Resources/audio/pg01.mp3", 
+            "target": "pg01.mp3"
+        }, 
+        {
+            "asset": "dkta/Resources/audio/quietLarkspur.mp3", 
+            "target": "quietLarkspur.mp3"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_apart.pvr.ccz", 
+            "target": "13Match_apart.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_dpart-ipadhd.plist", 
+            "target": "13Match_dpart-ipadhd.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/StoryObjects9-hd.plist", 
+            "target": "StoryObjects9-hd.plist"
+        }, 
+        {
+            "asset": "dkta/Levels-Chapter5.xml", 
+            "target": "Levels-Chapter5.xml"
+        }, 
+        {
+            "asset": "dkta/Resources/citybackgroundJ-hd.png", 
+            "target": "citybackgroundJ-hd.png"
+        }, 
+        {
+            "asset": "dkta/Resources/audio/pg06.mp3", 
+            "target": "pg06.mp3"
+        }, 
+        {
+            "asset": "dkta/Resources/timesquare_bak.jpg", 
+            "target": "timesquare_bak.jpg"
+        }, 
+        {
+            "asset": "dkta/Resources/timesquare_bak-hd.jpg", 
+            "target": "timesquare_bak-hd.jpg"
+        }, 
+        {
+            "asset": "dkta/Resources/icons/Icon.png", 
+            "target": "Icon.png"
+        }, 
+        {
+            "asset": "dkta/Resources/icons/Icon-40.png", 
+            "target": "Icon-40.png"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/MENU25.plist", 
+            "target": "MENU25.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_bpart.plist", 
+            "target": "13Match_bpart.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/StoryObjects9.pvr.ccz", 
+            "target": "StoryObjects9.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/StoryObjects9-ipadhd.plist", 
+            "target": "StoryObjects9-ipadhd.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/BOXPuzzle15-ipadhd.plist", 
+            "target": "BOXPuzzle15-ipadhd.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/launch/Default-Landscape@2x~ipad.png", 
+            "target": "Default-Landscape@2x~ipad.png"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/PIECESpuzzle15.pvr.ccz", 
+            "target": "PIECESpuzzle15.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/MENU25-hd.plist", 
+            "target": "MENU25-hd.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/StoryTextTraveler2-ipadhd.pvr.ccz", 
+            "target": "StoryTextTraveler2-ipadhd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/icons/Icon-76.png", 
+            "target": "Icon-76.png"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/MENU25-ipadhd.plist", 
+            "target": "MENU25-ipadhd.plist"
+        }, 
+        {
+            "asset": "dkta/luggageAnim.plist", 
+            "target": "luggageAnim.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/launch/Default.png", 
+            "target": "Default.png"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_dpart.plist", 
+            "target": "13Match_dpart.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/StoryTextTraveler2-hd.pvr.ccz", 
+            "target": "StoryTextTraveler2-hd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/BOXPuzzle15-hd.pvr.ccz", 
+            "target": "BOXPuzzle15-hd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/luggageITEMS13-ipadhd.plist", 
+            "target": "luggageITEMS13-ipadhd.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/audio/shakerpop.mp3", 
+            "target": "shakerpop.mp3"
+        }, 
+        {
+            "asset": "dkta/Resources/audio/pg05.mp3", 
+            "target": "pg05.mp3"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/cityscape7_sprites-hd.pvr.ccz", 
+            "target": "cityscape7_sprites-hd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/HUDSPRITES12-hd.pvr.ccz", 
+            "target": "HUDSPRITES12-hd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_cpart-ipadhd.plist", 
+            "target": "13Match_cpart-ipadhd.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/MENU25-ipadhd.pvr.ccz", 
+            "target": "MENU25-ipadhd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/luggageANIMATION16.plist", 
+            "target": "luggageANIMATION16.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/luggageITEMS13-hd.pvr.ccz", 
+            "target": "luggageITEMS13-hd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_bpart.pvr.ccz", 
+            "target": "13Match_bpart.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/luggageITEMS13.pvr.ccz", 
+            "target": "luggageITEMS13.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/luggageITEMS13-hd.plist", 
+            "target": "luggageITEMS13-hd.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_dpart-hd.pvr.ccz", 
+            "target": "13Match_dpart-hd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/audio/pg03.mp3", 
+            "target": "pg03.mp3"
+        }, 
+        {
+            "asset": "dkta/Resources/icons/Icon-80.png", 
+            "target": "Icon-80.png"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/HUDSPRITES12-hd.plist", 
+            "target": "HUDSPRITES12-hd.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_dpart-hd.plist", 
+            "target": "13Match_dpart-hd.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/StoryObjects9.plist", 
+            "target": "StoryObjects9.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/audio/pg02.mp3", 
+            "target": "pg02.mp3"
+        }, 
+        {
+            "asset": "dkta/Resources/audio/pageTurn.mp3", 
+            "target": "pageTurn.mp3"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/PIECESpuzzle15-hd.plist", 
+            "target": "PIECESpuzzle15-hd.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/HUDSPRITES12.pvr.ccz", 
+            "target": "HUDSPRITES12.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/audio/awwAgain.mp3", 
+            "target": "awwAgain.mp3"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_dpart.pvr.ccz", 
+            "target": "13Match_dpart.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/audio/correct.mp3", 
+            "target": "correct.mp3"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_apart-hd.plist", 
+            "target": "13Match_apart-hd.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/StoryTextTraveler2-hd.plist", 
+            "target": "StoryTextTraveler2-hd.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/PIECESpuzzle15-ipadhd.pvr.ccz", 
+            "target": "PIECESpuzzle15-ipadhd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/cityscape7_sprites-ipadhd.plist", 
+            "target": "cityscape7_sprites-ipadhd.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/audio/yay.mp3", 
+            "target": "yay.mp3"
+        }, 
+        {
+            "asset": "dkta/Resources/zh.lproj/zh-Hans.lproj/Localizable.strings", 
+            "target": "zh-Hans.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/StoryObjects9-hd.pvr.ccz", 
+            "target": "StoryObjects9-hd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/MENU25.pvr.ccz", 
+            "target": "MENU25.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/BOXPuzzle15-ipadhd.pvr.ccz", 
+            "target": "BOXPuzzle15-ipadhd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/MENU25-hd.pvr.ccz", 
+            "target": "MENU25-hd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/BOXPuzzle15.pvr.ccz", 
+            "target": "BOXPuzzle15.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/launch/Default-Landscape@2x.png", 
+            "target": "Default-Landscape@2x.png"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_bpart-hd.plist", 
+            "target": "13Match_bpart-hd.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/PIECESpuzzle15-hd.pvr.ccz", 
+            "target": "PIECESpuzzle15-hd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/luggageANIMATION16-hd.plist", 
+            "target": "luggageANIMATION16-hd.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/icons/Icon-144.png", 
+            "target": "Icon-144.png"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_cpart-hd.pvr.ccz", 
+            "target": "13Match_cpart-hd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/icons/Icon-72.png", 
+            "target": "Icon-72.png"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/luggageITEMS13.plist", 
+            "target": "luggageITEMS13.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/BOXPuzzle15.plist", 
+            "target": "BOXPuzzle15.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/launch/Default-568h@2x.png", 
+            "target": "Default-568h@2x.png"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_cpart.pvr.ccz", 
+            "target": "13Match_cpart.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/stars.png", 
+            "target": "stars.png"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/HUDSPRITES12-ipadhd.plist", 
+            "target": "HUDSPRITES12-ipadhd.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/HUDSPRITES12.plist", 
+            "target": "HUDSPRITES12.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_dpart-ipadhd.pvr.ccz", 
+            "target": "13Match_dpart-ipadhd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_cpart-ipadhd.pvr.ccz", 
+            "target": "13Match_cpart-ipadhd.pvr.ccz"
+        }, 
+        {
+            "asset": "dkta/Resources/snow.png", 
+            "target": "snow.png"
+        }, 
+        {
+            "asset": "dkta/Resources/icons/Icon-152.png", 
+            "target": "Icon-152.png"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/cityscape7_sprites.plist", 
+            "target": "cityscape7_sprites.plist"
+        }, 
+        {
+            "asset": "dkta/fire.png", 
+            "target": "fire.png"
+        }, 
+        {
+            "asset": "dkta/Resources/audio/eat.mp3", 
+            "target": "eat.mp3"
+        }, 
+        {
+            "asset": "dkta/Resources/audio/pg04.mp3", 
+            "target": "pg04.mp3"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/cityscape7_sprites-hd.plist", 
+            "target": "cityscape7_sprites-hd.plist"
+        }, 
+        {
+            "asset": "dkta/Resources/launch/Default-Landscape.png", 
+            "target": "Default-Landscape.png"
+        }, 
+        {
+            "asset": "dkta/Resources/timesquare_bak-ipadhd.jpg", 
+            "target": "timesquare_bak-ipadhd.jpg"
+        }, 
+        {
+            "asset": "dkta/Resources/spritesheets/13Match_apart-ipadhd.plist", 
+            "target": "13Match_apart-ipadhd.plist"
+        }
+    ], 
+    "config": {
+        "APPLICATION_FULL_NAME": "dkta-testing", 
+        "APPLICATION_IDENTIFIER": "com.biggiebangle.NYCTesting", 
+        "APPLICATION_NAME": "dkta-testing", 
+        "LONG_VERSION": "1.0", 
+        "SHORT_VERSION": "1.0", 
+        "TEMPLATE_VALUES": {
+            "EXECUTABLE_NAME": "dkta-testing", 
+            "PRODUCT_NAME": "dkta-testing"
+        }
+    }, 
+    "defines": {
+        "ANDROID": 1, 
+        "CC_ENABLE_BOX2D_INTEGRATION": 1, 
+        "NDEBUG": 1, 
+        "NS_BLOCK_ASSERTIONS": 1, 
+        "__IPHONE_OS_VERSION_MIN_REQUIRED": 50100
+    }, 
+    "deps": [
+        "UIKit", 
+        "CoreMotion", 
+        "Foundation", 
+        "CoreGraphics", 
+        "UIKit", 
+        "QuartzCore", 
+        "OpenGLES", 
+        "OpenAL", 
+        "AudioToolbox", 
+        "CoreText", 
+        "StoreKit"
+    ], 
+    "flags": [
+        "-fobjc-arc", 
+        "-fasm-blocks", 
+        {
+            "flag": "-std=gnu99", 
+            "not_type": "c++"
+        }, 
+        {
+            "flag": "-fgnu-keywords", 
+            "not_type": "c++"
+        }, 
+        "-fno-asm", 
+        "-fpascal-strings", 
+        "-Wempty-body", 
+        "-Wshorten-64-to-32", 
+        "-Wno-deprecated-declarations", 
+        "-Wreturn-type", 
+        "-Wswitch", 
+        "-Wparentheses", 
+        "-Wformat", 
+        "-Wuninitialized", 
+        "-Wunused-function", 
+        "-Wunused-value", 
+        "-Wunused-variable", 
+        {
+            "flag": "-Winvalid-offsetof", 
+            "type": "c++"
+        }, 
+        {
+            "flag": "-Wprotocol", 
+            "type": "objc"
+        }, 
+        {
+            "flag": "-Wundeclared-selector", 
+            "type": "objc"
+        }
+    ], 
+    "header_paths": [
+        {
+            "header_path": "dkta-testing.hmap", 
+            "hmap": {
+                "AppDelegate.h": {
+                    "key": "AppDelegate.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "AppDelegate.h"
+                }, 
+                "Background.h": {
+                    "key": "Background.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "Background.h"
+                }, 
+                "Box2D.h": {
+                    "key": "Box2D.h", 
+                    "prefix": "dkta/libs/Box2D/", 
+                    "suffix": "Box2D.h"
+                }, 
+                "CCAction.h": {
+                    "key": "CCAction.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCAction.h"
+                }, 
+                "CCActionCamera.h": {
+                    "key": "CCActionCamera.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCActionCamera.h"
+                }, 
+                "CCActionCatmullRom.h": {
+                    "key": "CCActionCatmullRom.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCActionCatmullRom.h"
+                }, 
+                "CCActionEase.h": {
+                    "key": "CCActionEase.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCActionEase.h"
+                }, 
+                "CCActionGrid.h": {
+                    "key": "CCActionGrid.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCActionGrid.h"
+                }, 
+                "CCActionGrid3D.h": {
+                    "key": "CCActionGrid3D.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCActionGrid3D.h"
+                }, 
+                "CCActionInstant.h": {
+                    "key": "CCActionInstant.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCActionInstant.h"
+                }, 
+                "CCActionInterval.h": {
+                    "key": "CCActionInterval.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCActionInterval.h"
+                }, 
+                "CCActionManager.h": {
+                    "key": "CCActionManager.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCActionManager.h"
+                }, 
+                "CCActionPageTurn3D.h": {
+                    "key": "CCActionPageTurn3D.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCActionPageTurn3D.h"
+                }, 
+                "CCActionProgressTimer.h": {
+                    "key": "CCActionProgressTimer.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCActionProgressTimer.h"
+                }, 
+                "CCActionTiledGrid.h": {
+                    "key": "CCActionTiledGrid.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCActionTiledGrid.h"
+                }, 
+                "CCActionTween.h": {
+                    "key": "CCActionTween.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCActionTween.h"
+                }, 
+                "CCAnimation.h": {
+                    "key": "CCAnimation.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCAnimation.h"
+                }, 
+                "CCAnimationCache.h": {
+                    "key": "CCAnimationCache.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCAnimationCache.h"
+                }, 
+                "CCArray.h": {
+                    "key": "CCArray.h", 
+                    "prefix": "dkta/libs/cocos2d/Support/", 
+                    "suffix": "CCArray.h"
+                }, 
+                "CCAtlasNode.h": {
+                    "key": "CCAtlasNode.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCAtlasNode.h"
+                }, 
+                "CCCamera.h": {
+                    "key": "CCCamera.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCCamera.h"
+                }, 
+                "CCClippingNode.h": {
+                    "key": "CCClippingNode.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCClippingNode.h"
+                }, 
+                "CCConfiguration.h": {
+                    "key": "CCConfiguration.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCConfiguration.h"
+                }, 
+                "CCDirector.h": {
+                    "key": "CCDirector.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCDirector.h"
+                }, 
+                "CCDirectorIOS.h": {
+                    "key": "CCDirectorIOS.h", 
+                    "prefix": "dkta/libs/cocos2d/Platforms/iOS/", 
+                    "suffix": "CCDirectorIOS.h"
+                }, 
+                "CCDirectorMac.h": {
+                    "key": "CCDirectorMac.h", 
+                    "prefix": "dkta/libs/cocos2d/Platforms/Mac/", 
+                    "suffix": "CCDirectorMac.h"
+                }, 
+                "CCDrawNode.h": {
+                    "key": "CCDrawNode.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCDrawNode.h"
+                }, 
+                "CCDrawingPrimitives.h": {
+                    "key": "CCDrawingPrimitives.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCDrawingPrimitives.h"
+                }, 
+                "CCES2Renderer.h": {
+                    "key": "CCES2Renderer.h", 
+                    "prefix": "dkta/libs/cocos2d/Platforms/iOS/", 
+                    "suffix": "CCES2Renderer.h"
+                }, 
+                "CCESRenderer.h": {
+                    "key": "CCESRenderer.h", 
+                    "prefix": "dkta/libs/cocos2d/Platforms/iOS/", 
+                    "suffix": "CCESRenderer.h"
+                }, 
+                "CCEventDispatcher.h": {
+                    "key": "CCEventDispatcher.h", 
+                    "prefix": "dkta/libs/cocos2d/Platforms/Mac/", 
+                    "suffix": "CCEventDispatcher.h"
+                }, 
+                "CCFileUtils.h": {
+                    "key": "CCFileUtils.h", 
+                    "prefix": "dkta/libs/cocos2d/Support/", 
+                    "suffix": "CCFileUtils.h"
+                }, 
+                "CCFontDefinition.h": {
+                    "key": "CCFontDefinition.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCFontDefinition.h"
+                }, 
+                "CCGL.h": {
+                    "key": "CCGL.h", 
+                    "prefix": "dkta/libs/cocos2d/Platforms/", 
+                    "suffix": "CCGL.h"
+                }, 
+                "CCGLProgram.h": {
+                    "key": "CCGLProgram.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCGLProgram.h"
+                }, 
+                "CCGLView.h": {
+                    "key": "CCGLView.h", 
+                    "prefix": "dkta/libs/cocos2d/Platforms/iOS/", 
+                    "suffix": "CCGLView.h"
+                }, 
+                "CCGrabber.h": {
+                    "key": "CCGrabber.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCGrabber.h"
+                }, 
+                "CCGrid.h": {
+                    "key": "CCGrid.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCGrid.h"
+                }, 
+                "CCLabelAtlas.h": {
+                    "key": "CCLabelAtlas.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCLabelAtlas.h"
+                }, 
+                "CCLabelBMFont.h": {
+                    "key": "CCLabelBMFont.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCLabelBMFont.h"
+                }, 
+                "CCLabelTTF.h": {
+                    "key": "CCLabelTTF.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCLabelTTF.h"
+                }, 
+                "CCLayer.h": {
+                    "key": "CCLayer.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCLayer.h"
+                }, 
+                "CCMenu.h": {
+                    "key": "CCMenu.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCMenu.h"
+                }, 
+                "CCMenuItem.h": {
+                    "key": "CCMenuItem.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCMenuItem.h"
+                }, 
+                "CCMotionStreak.h": {
+                    "key": "CCMotionStreak.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCMotionStreak.h"
+                }, 
+                "CCNS.h": {
+                    "key": "CCNS.h", 
+                    "prefix": "dkta/libs/cocos2d/Platforms/", 
+                    "suffix": "CCNS.h"
+                }, 
+                "CCNode+Debug.h": {
+                    "key": "CCNode+Debug.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCNode+Debug.h"
+                }, 
+                "CCNode.h": {
+                    "key": "CCNode.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCNode.h"
+                }, 
+                "CCParallaxNode.h": {
+                    "key": "CCParallaxNode.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCParallaxNode.h"
+                }, 
+                "CCParticleBatchNode.h": {
+                    "key": "CCParticleBatchNode.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCParticleBatchNode.h"
+                }, 
+                "CCParticleExamples.h": {
+                    "key": "CCParticleExamples.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCParticleExamples.h"
+                }, 
+                "CCParticleSystem.h": {
+                    "key": "CCParticleSystem.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCParticleSystem.h"
+                }, 
+                "CCParticleSystemQuad.h": {
+                    "key": "CCParticleSystemQuad.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCParticleSystemQuad.h"
+                }, 
+                "CCPhysicsDebugNode.h": {
+                    "key": "CCPhysicsDebugNode.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCPhysicsDebugNode.h"
+                }, 
+                "CCPhysicsSprite.h": {
+                    "key": "CCPhysicsSprite.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCPhysicsSprite.h"
+                }, 
+                "CCProfiling.h": {
+                    "key": "CCProfiling.h", 
+                    "prefix": "dkta/libs/cocos2d/Support/", 
+                    "suffix": "CCProfiling.h"
+                }, 
+                "CCProgressTimer.h": {
+                    "key": "CCProgressTimer.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCProgressTimer.h"
+                }, 
+                "CCProtocols.h": {
+                    "key": "CCProtocols.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCProtocols.h"
+                }, 
+                "CCRenderTexture.h": {
+                    "key": "CCRenderTexture.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCRenderTexture.h"
+                }, 
+                "CCScene.h": {
+                    "key": "CCScene.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCScene.h"
+                }, 
+                "CCScheduler.h": {
+                    "key": "CCScheduler.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCScheduler.h"
+                }, 
+                "CCScrollLayer.h": {
+                    "key": "CCScrollLayer.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "CCScrollLayer.h"
+                }, 
+                "CCShaderCache.h": {
+                    "key": "CCShaderCache.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCShaderCache.h"
+                }, 
+                "CCSprite.h": {
+                    "key": "CCSprite.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCSprite.h"
+                }, 
+                "CCSpriteBatchNode.h": {
+                    "key": "CCSpriteBatchNode.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCSpriteBatchNode.h"
+                }, 
+                "CCSpriteFrame.h": {
+                    "key": "CCSpriteFrame.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCSpriteFrame.h"
+                }, 
+                "CCSpriteFrameCache.h": {
+                    "key": "CCSpriteFrameCache.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCSpriteFrameCache.h"
+                }, 
+                "CCTMXLayer.h": {
+                    "key": "CCTMXLayer.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCTMXLayer.h"
+                }, 
+                "CCTMXObjectGroup.h": {
+                    "key": "CCTMXObjectGroup.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCTMXObjectGroup.h"
+                }, 
+                "CCTMXTiledMap.h": {
+                    "key": "CCTMXTiledMap.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCTMXTiledMap.h"
+                }, 
+                "CCTMXXMLParser.h": {
+                    "key": "CCTMXXMLParser.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCTMXXMLParser.h"
+                }, 
+                "CCTexture2D.h": {
+                    "key": "CCTexture2D.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCTexture2D.h"
+                }, 
+                "CCTextureAtlas.h": {
+                    "key": "CCTextureAtlas.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCTextureAtlas.h"
+                }, 
+                "CCTextureCache.h": {
+                    "key": "CCTextureCache.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCTextureCache.h"
+                }, 
+                "CCTexturePVR.h": {
+                    "key": "CCTexturePVR.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCTexturePVR.h"
+                }, 
+                "CCTileMapAtlas.h": {
+                    "key": "CCTileMapAtlas.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCTileMapAtlas.h"
+                }, 
+                "CCTouchDelegateProtocol.h": {
+                    "key": "CCTouchDelegateProtocol.h", 
+                    "prefix": "dkta/libs/cocos2d/Platforms/iOS/", 
+                    "suffix": "CCTouchDelegateProtocol.h"
+                }, 
+                "CCTouchDispatcher.h": {
+                    "key": "CCTouchDispatcher.h", 
+                    "prefix": "dkta/libs/cocos2d/Platforms/iOS/", 
+                    "suffix": "CCTouchDispatcher.h"
+                }, 
+                "CCTouchHandler.h": {
+                    "key": "CCTouchHandler.h", 
+                    "prefix": "dkta/libs/cocos2d/Platforms/iOS/", 
+                    "suffix": "CCTouchHandler.h"
+                }, 
+                "CCTransition.h": {
+                    "key": "CCTransition.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCTransition.h"
+                }, 
+                "CCTransitionPageTurn.h": {
+                    "key": "CCTransitionPageTurn.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCTransitionPageTurn.h"
+                }, 
+                "CCTransitionProgress.h": {
+                    "key": "CCTransitionProgress.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "CCTransitionProgress.h"
+                }, 
+                "CCVertex.h": {
+                    "key": "CCVertex.h", 
+                    "prefix": "dkta/libs/cocos2d/Support/", 
+                    "suffix": "CCVertex.h"
+                }, 
+                "CCWindow.h": {
+                    "key": "CCWindow.h", 
+                    "prefix": "dkta/libs/cocos2d/Platforms/Mac/", 
+                    "suffix": "CCWindow.h"
+                }, 
+                "CDAudioManager.h": {
+                    "key": "CDAudioManager.h", 
+                    "prefix": "dkta/libs/CocosDenshion/", 
+                    "suffix": "CDAudioManager.h"
+                }, 
+                "CDConfig.h": {
+                    "key": "CDConfig.h", 
+                    "prefix": "dkta/libs/CocosDenshion/", 
+                    "suffix": "CDConfig.h"
+                }, 
+                "CDOpenALSupport.h": {
+                    "key": "CDOpenALSupport.h", 
+                    "prefix": "dkta/libs/CocosDenshion/", 
+                    "suffix": "CDOpenALSupport.h"
+                }, 
+                "CDXMacOSXSupport.h": {
+                    "key": "CDXMacOSXSupport.h", 
+                    "prefix": "dkta/libs/CocosDenshion/", 
+                    "suffix": "CDXMacOSXSupport.h"
+                }, 
+                "CDXPropertyModifierAction.h": {
+                    "key": "CDXPropertyModifierAction.h", 
+                    "prefix": "dkta/libs/CocosDenshion/", 
+                    "suffix": "CDXPropertyModifierAction.h"
+                }, 
+                "CGPointExtension.h": {
+                    "key": "CGPointExtension.h", 
+                    "prefix": "dkta/libs/cocos2d/Support/", 
+                    "suffix": "CGPointExtension.h"
+                }, 
+                "Cityscape.h": {
+                    "key": "Cityscape.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "Cityscape.h"
+                }, 
+                "CocosDenshion.h": {
+                    "key": "CocosDenshion.h", 
+                    "prefix": "dkta/libs/CocosDenshion/", 
+                    "suffix": "CocosDenshion.h"
+                }, 
+                "GDataXMLNode.h": {
+                    "key": "GDataXMLNode.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "GDataXMLNode.h"
+                }, 
+                "GLES-Render.h": {
+                    "key": "GLES-Render.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "GLES-Render.h"
+                }, 
+                "GameData.h": {
+                    "key": "GameData.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "GameData.h"
+                }, 
+                "GameDataParser.h": {
+                    "key": "GameDataParser.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "GameDataParser.h"
+                }, 
+                "HUDLayer.h": {
+                    "key": "HUDLayer.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "HUDLayer.h"
+                }, 
+                "IAPHelper.h": {
+                    "key": "IAPHelper.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "IAPHelper.h"
+                }, 
+                "IntroLayer.h": {
+                    "key": "IntroLayer.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "IntroLayer.h"
+                }, 
+                "Level.h": {
+                    "key": "Level.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "Level.h"
+                }, 
+                "LevelParser.h": {
+                    "key": "LevelParser.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "LevelParser.h"
+                }, 
+                "LevelSelect.h": {
+                    "key": "LevelSelect.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "LevelSelect.h"
+                }, 
+                "Levels.h": {
+                    "key": "Levels.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "Levels.h"
+                }, 
+                "Luggage.h": {
+                    "key": "Luggage.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "Luggage.h"
+                }, 
+                "MainMenu.h": {
+                    "key": "MainMenu.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "MainMenu.h"
+                }, 
+                "MatchingGame.h": {
+                    "key": "MatchingGame.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "MatchingGame.h"
+                }, 
+                "MyContactListener.h": {
+                    "key": "MyContactListener.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "MyContactListener.h"
+                }, 
+                "MyiAd.h": {
+                    "key": "MyiAd.h", 
+                    "prefix": "dkta/iAds/", 
+                    "suffix": "MyiAd.h"
+                }, 
+                "NSThread+performBlock.h": {
+                    "key": "NSThread+performBlock.h", 
+                    "prefix": "dkta/libs/cocos2d/Support/", 
+                    "suffix": "NSThread+performBlock.h"
+                }, 
+                "OpenGL_Internal.h": {
+                    "key": "OpenGL_Internal.h", 
+                    "prefix": "dkta/libs/cocos2d/Support/", 
+                    "suffix": "OpenGL_Internal.h"
+                }, 
+                "Prefix.pch": {
+                    "key": "Prefix.pch", 
+                    "prefix": "dkta/", 
+                    "suffix": "Prefix.pch"
+                }, 
+                "Puzzle.h": {
+                    "key": "Puzzle.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "Puzzle.h"
+                }, 
+                "Scene00.h": {
+                    "key": "Scene00.h", 
+                    "prefix": "dkta/StoryScenes/", 
+                    "suffix": "Scene00.h"
+                }, 
+                "Scene01.h": {
+                    "key": "Scene01.h", 
+                    "prefix": "dkta/StoryScenes/", 
+                    "suffix": "Scene01.h"
+                }, 
+                "Scene02.h": {
+                    "key": "Scene02.h", 
+                    "prefix": "dkta/StoryScenes/", 
+                    "suffix": "Scene02.h"
+                }, 
+                "Scene03.h": {
+                    "key": "Scene03.h", 
+                    "prefix": "dkta/StoryScenes/", 
+                    "suffix": "Scene03.h"
+                }, 
+                "Scene04.h": {
+                    "key": "Scene04.h", 
+                    "prefix": "dkta/StoryScenes/", 
+                    "suffix": "Scene04.h"
+                }, 
+                "Scene05.h": {
+                    "key": "Scene05.h", 
+                    "prefix": "dkta/StoryScenes/", 
+                    "suffix": "Scene05.h"
+                }, 
+                "Scene06.h": {
+                    "key": "Scene06.h", 
+                    "prefix": "dkta/StoryScenes/", 
+                    "suffix": "Scene06.h"
+                }, 
+                "Scene07.h": {
+                    "key": "Scene07.h", 
+                    "prefix": "dkta/StoryScenes/", 
+                    "suffix": "Scene07.h"
+                }, 
+                "Scene08.h": {
+                    "key": "Scene08.h", 
+                    "prefix": "dkta/StoryScenes/", 
+                    "suffix": "Scene08.h"
+                }, 
+                "SimpleAudioEngine.h": {
+                    "key": "SimpleAudioEngine.h", 
+                    "prefix": "dkta/libs/CocosDenshion/", 
+                    "suffix": "SimpleAudioEngine.h"
+                }, 
+                "Store.h": {
+                    "key": "Store.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "Store.h"
+                }, 
+                "TGAlib.h": {
+                    "key": "TGAlib.h", 
+                    "prefix": "dkta/libs/cocos2d/Support/", 
+                    "suffix": "TGAlib.h"
+                }, 
+                "TTIAPHelper.h": {
+                    "key": "TTIAPHelper.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "TTIAPHelper.h"
+                }, 
+                "TinyTravelerIntro.h": {
+                    "key": "TinyTravelerIntro.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "TinyTravelerIntro.h"
+                }, 
+                "TransformUtils.h": {
+                    "key": "TransformUtils.h", 
+                    "prefix": "dkta/libs/cocos2d/Support/", 
+                    "suffix": "TransformUtils.h"
+                }, 
+                "Weather.h": {
+                    "key": "Weather.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "Weather.h"
+                }, 
+                "WeatherData.h": {
+                    "key": "WeatherData.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "WeatherData.h"
+                }, 
+                "WeatherDataParser.h": {
+                    "key": "WeatherDataParser.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "WeatherDataParser.h"
+                }, 
+                "Words.h": {
+                    "key": "Words.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "Words.h"
+                }, 
+                "ZipUtils.h": {
+                    "key": "ZipUtils.h", 
+                    "prefix": "dkta/libs/cocos2d/Support/", 
+                    "suffix": "ZipUtils.h"
+                }, 
+                "aabb.h": {
+                    "key": "aabb.h", 
+                    "prefix": "dkta/libs/kazmath/include/kazmath/", 
+                    "suffix": "aabb.h"
+                }, 
+                "b2BlockAllocator.h": {
+                    "key": "b2BlockAllocator.h", 
+                    "prefix": "dkta/libs/Box2D/Common/", 
+                    "suffix": "b2BlockAllocator.h"
+                }, 
+                "b2Body.h": {
+                    "key": "b2Body.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/", 
+                    "suffix": "b2Body.h"
+                }, 
+                "b2BroadPhase.h": {
+                    "key": "b2BroadPhase.h", 
+                    "prefix": "dkta/libs/Box2D/Collision/", 
+                    "suffix": "b2BroadPhase.h"
+                }, 
+                "b2ChainAndCircleContact.h": {
+                    "key": "b2ChainAndCircleContact.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/Contacts/", 
+                    "suffix": "b2ChainAndCircleContact.h"
+                }, 
+                "b2ChainAndPolygonContact.h": {
+                    "key": "b2ChainAndPolygonContact.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/Contacts/", 
+                    "suffix": "b2ChainAndPolygonContact.h"
+                }, 
+                "b2ChainShape.h": {
+                    "key": "b2ChainShape.h", 
+                    "prefix": "dkta/libs/Box2D/Collision/Shapes/", 
+                    "suffix": "b2ChainShape.h"
+                }, 
+                "b2CircleContact.h": {
+                    "key": "b2CircleContact.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/Contacts/", 
+                    "suffix": "b2CircleContact.h"
+                }, 
+                "b2CircleShape.h": {
+                    "key": "b2CircleShape.h", 
+                    "prefix": "dkta/libs/Box2D/Collision/Shapes/", 
+                    "suffix": "b2CircleShape.h"
+                }, 
+                "b2Collision.h": {
+                    "key": "b2Collision.h", 
+                    "prefix": "dkta/libs/Box2D/Collision/", 
+                    "suffix": "b2Collision.h"
+                }, 
+                "b2Contact.h": {
+                    "key": "b2Contact.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/Contacts/", 
+                    "suffix": "b2Contact.h"
+                }, 
+                "b2ContactManager.h": {
+                    "key": "b2ContactManager.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/", 
+                    "suffix": "b2ContactManager.h"
+                }, 
+                "b2ContactSolver.h": {
+                    "key": "b2ContactSolver.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/Contacts/", 
+                    "suffix": "b2ContactSolver.h"
+                }, 
+                "b2Distance.h": {
+                    "key": "b2Distance.h", 
+                    "prefix": "dkta/libs/Box2D/Collision/", 
+                    "suffix": "b2Distance.h"
+                }, 
+                "b2DistanceJoint.h": {
+                    "key": "b2DistanceJoint.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/Joints/", 
+                    "suffix": "b2DistanceJoint.h"
+                }, 
+                "b2Draw.h": {
+                    "key": "b2Draw.h", 
+                    "prefix": "dkta/libs/Box2D/Common/", 
+                    "suffix": "b2Draw.h"
+                }, 
+                "b2DynamicTree.h": {
+                    "key": "b2DynamicTree.h", 
+                    "prefix": "dkta/libs/Box2D/Collision/", 
+                    "suffix": "b2DynamicTree.h"
+                }, 
+                "b2EdgeAndCircleContact.h": {
+                    "key": "b2EdgeAndCircleContact.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/Contacts/", 
+                    "suffix": "b2EdgeAndCircleContact.h"
+                }, 
+                "b2EdgeAndPolygonContact.h": {
+                    "key": "b2EdgeAndPolygonContact.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/Contacts/", 
+                    "suffix": "b2EdgeAndPolygonContact.h"
+                }, 
+                "b2EdgeShape.h": {
+                    "key": "b2EdgeShape.h", 
+                    "prefix": "dkta/libs/Box2D/Collision/Shapes/", 
+                    "suffix": "b2EdgeShape.h"
+                }, 
+                "b2Fixture.h": {
+                    "key": "b2Fixture.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/", 
+                    "suffix": "b2Fixture.h"
+                }, 
+                "b2FrictionJoint.h": {
+                    "key": "b2FrictionJoint.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/Joints/", 
+                    "suffix": "b2FrictionJoint.h"
+                }, 
+                "b2GearJoint.h": {
+                    "key": "b2GearJoint.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/Joints/", 
+                    "suffix": "b2GearJoint.h"
+                }, 
+                "b2GrowableStack.h": {
+                    "key": "b2GrowableStack.h", 
+                    "prefix": "dkta/libs/Box2D/Common/", 
+                    "suffix": "b2GrowableStack.h"
+                }, 
+                "b2Island.h": {
+                    "key": "b2Island.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/", 
+                    "suffix": "b2Island.h"
+                }, 
+                "b2Joint.h": {
+                    "key": "b2Joint.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/Joints/", 
+                    "suffix": "b2Joint.h"
+                }, 
+                "b2Math.h": {
+                    "key": "b2Math.h", 
+                    "prefix": "dkta/libs/Box2D/Common/", 
+                    "suffix": "b2Math.h"
+                }, 
+                "b2MouseJoint.h": {
+                    "key": "b2MouseJoint.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/Joints/", 
+                    "suffix": "b2MouseJoint.h"
+                }, 
+                "b2PolygonAndCircleContact.h": {
+                    "key": "b2PolygonAndCircleContact.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/Contacts/", 
+                    "suffix": "b2PolygonAndCircleContact.h"
+                }, 
+                "b2PolygonContact.h": {
+                    "key": "b2PolygonContact.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/Contacts/", 
+                    "suffix": "b2PolygonContact.h"
+                }, 
+                "b2PolygonShape.h": {
+                    "key": "b2PolygonShape.h", 
+                    "prefix": "dkta/libs/Box2D/Collision/Shapes/", 
+                    "suffix": "b2PolygonShape.h"
+                }, 
+                "b2PrismaticJoint.h": {
+                    "key": "b2PrismaticJoint.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/Joints/", 
+                    "suffix": "b2PrismaticJoint.h"
+                }, 
+                "b2PulleyJoint.h": {
+                    "key": "b2PulleyJoint.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/Joints/", 
+                    "suffix": "b2PulleyJoint.h"
+                }, 
+                "b2RevoluteJoint.h": {
+                    "key": "b2RevoluteJoint.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/Joints/", 
+                    "suffix": "b2RevoluteJoint.h"
+                }, 
+                "b2Rope.h": {
+                    "key": "b2Rope.h", 
+                    "prefix": "dkta/libs/Box2D/Rope/", 
+                    "suffix": "b2Rope.h"
+                }, 
+                "b2RopeJoint.h": {
+                    "key": "b2RopeJoint.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/Joints/", 
+                    "suffix": "b2RopeJoint.h"
+                }, 
+                "b2Settings.h": {
+                    "key": "b2Settings.h", 
+                    "prefix": "dkta/libs/Box2D/Common/", 
+                    "suffix": "b2Settings.h"
+                }, 
+                "b2Shape.h": {
+                    "key": "b2Shape.h", 
+                    "prefix": "dkta/libs/Box2D/Collision/Shapes/", 
+                    "suffix": "b2Shape.h"
+                }, 
+                "b2StackAllocator.h": {
+                    "key": "b2StackAllocator.h", 
+                    "prefix": "dkta/libs/Box2D/Common/", 
+                    "suffix": "b2StackAllocator.h"
+                }, 
+                "b2TimeOfImpact.h": {
+                    "key": "b2TimeOfImpact.h", 
+                    "prefix": "dkta/libs/Box2D/Collision/", 
+                    "suffix": "b2TimeOfImpact.h"
+                }, 
+                "b2TimeStep.h": {
+                    "key": "b2TimeStep.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/", 
+                    "suffix": "b2TimeStep.h"
+                }, 
+                "b2Timer.h": {
+                    "key": "b2Timer.h", 
+                    "prefix": "dkta/libs/Box2D/Common/", 
+                    "suffix": "b2Timer.h"
+                }, 
+                "b2WeldJoint.h": {
+                    "key": "b2WeldJoint.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/Joints/", 
+                    "suffix": "b2WeldJoint.h"
+                }, 
+                "b2WheelJoint.h": {
+                    "key": "b2WheelJoint.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/Joints/", 
+                    "suffix": "b2WheelJoint.h"
+                }, 
+                "b2World.h": {
+                    "key": "b2World.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/", 
+                    "suffix": "b2World.h"
+                }, 
+                "b2WorldCallbacks.h": {
+                    "key": "b2WorldCallbacks.h", 
+                    "prefix": "dkta/libs/Box2D/Dynamics/", 
+                    "suffix": "b2WorldCallbacks.h"
+                }, 
+                "base64.h": {
+                    "key": "base64.h", 
+                    "prefix": "dkta/libs/cocos2d/Support/", 
+                    "suffix": "base64.h"
+                }, 
+                "ccCArray.h": {
+                    "key": "ccCArray.h", 
+                    "prefix": "dkta/libs/cocos2d/Support/", 
+                    "suffix": "ccCArray.h"
+                }, 
+                "ccConfig.h": {
+                    "key": "ccConfig.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "ccConfig.h"
+                }, 
+                "ccDeprecated.h": {
+                    "key": "ccDeprecated.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "ccDeprecated.h"
+                }, 
+                "ccFPSImages.h": {
+                    "key": "ccFPSImages.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "ccFPSImages.h"
+                }, 
+                "ccGLStateCache.h": {
+                    "key": "ccGLStateCache.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "ccGLStateCache.h"
+                }, 
+                "ccMacros.h": {
+                    "key": "ccMacros.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "ccMacros.h"
+                }, 
+                "ccShader_PositionColorLengthTexture_frag.h": {
+                    "key": "ccShader_PositionColorLengthTexture_frag.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "ccShader_PositionColorLengthTexture_frag.h"
+                }, 
+                "ccShader_PositionColorLengthTexture_vert.h": {
+                    "key": "ccShader_PositionColorLengthTexture_vert.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "ccShader_PositionColorLengthTexture_vert.h"
+                }, 
+                "ccShader_PositionColor_frag.h": {
+                    "key": "ccShader_PositionColor_frag.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "ccShader_PositionColor_frag.h"
+                }, 
+                "ccShader_PositionColor_vert.h": {
+                    "key": "ccShader_PositionColor_vert.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "ccShader_PositionColor_vert.h"
+                }, 
+                "ccShader_PositionTextureA8Color_frag.h": {
+                    "key": "ccShader_PositionTextureA8Color_frag.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "ccShader_PositionTextureA8Color_frag.h"
+                }, 
+                "ccShader_PositionTextureA8Color_vert.h": {
+                    "key": "ccShader_PositionTextureA8Color_vert.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "ccShader_PositionTextureA8Color_vert.h"
+                }, 
+                "ccShader_PositionTextureColorAlphaTest_frag.h": {
+                    "key": "ccShader_PositionTextureColorAlphaTest_frag.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "ccShader_PositionTextureColorAlphaTest_frag.h"
+                }, 
+                "ccShader_PositionTextureColor_frag.h": {
+                    "key": "ccShader_PositionTextureColor_frag.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "ccShader_PositionTextureColor_frag.h"
+                }, 
+                "ccShader_PositionTextureColor_vert.h": {
+                    "key": "ccShader_PositionTextureColor_vert.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "ccShader_PositionTextureColor_vert.h"
+                }, 
+                "ccShader_PositionTexture_frag.h": {
+                    "key": "ccShader_PositionTexture_frag.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "ccShader_PositionTexture_frag.h"
+                }, 
+                "ccShader_PositionTexture_uColor_frag.h": {
+                    "key": "ccShader_PositionTexture_uColor_frag.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "ccShader_PositionTexture_uColor_frag.h"
+                }, 
+                "ccShader_PositionTexture_uColor_vert.h": {
+                    "key": "ccShader_PositionTexture_uColor_vert.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "ccShader_PositionTexture_uColor_vert.h"
+                }, 
+                "ccShader_PositionTexture_vert.h": {
+                    "key": "ccShader_PositionTexture_vert.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "ccShader_PositionTexture_vert.h"
+                }, 
+                "ccShader_Position_uColor_frag.h": {
+                    "key": "ccShader_Position_uColor_frag.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "ccShader_Position_uColor_frag.h"
+                }, 
+                "ccShader_Position_uColor_vert.h": {
+                    "key": "ccShader_Position_uColor_vert.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "ccShader_Position_uColor_vert.h"
+                }, 
+                "ccShaders.h": {
+                    "key": "ccShaders.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "ccShaders.h"
+                }, 
+                "ccTypes.h": {
+                    "key": "ccTypes.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "ccTypes.h"
+                }, 
+                "ccUtils.h": {
+                    "key": "ccUtils.h", 
+                    "prefix": "dkta/libs/cocos2d/Support/", 
+                    "suffix": "ccUtils.h"
+                }, 
+                "cocos2d.h": {
+                    "key": "cocos2d.h", 
+                    "prefix": "dkta/libs/cocos2d/", 
+                    "suffix": "cocos2d.h"
+                }, 
+                "kazmath.h": {
+                    "key": "kazmath.h", 
+                    "prefix": "dkta/libs/kazmath/include/kazmath/", 
+                    "suffix": "kazmath.h"
+                }, 
+                "mat3.h": {
+                    "key": "mat3.h", 
+                    "prefix": "dkta/libs/kazmath/include/kazmath/", 
+                    "suffix": "mat3.h"
+                }, 
+                "mat4.h": {
+                    "key": "mat4.h", 
+                    "prefix": "dkta/libs/kazmath/include/kazmath/", 
+                    "suffix": "mat4.h"
+                }, 
+                "mat4stack.h": {
+                    "key": "mat4stack.h", 
+                    "prefix": "dkta/libs/kazmath/include/kazmath/GL/", 
+                    "suffix": "mat4stack.h"
+                }, 
+                "matrix.h": {
+                    "key": "matrix.h", 
+                    "prefix": "dkta/libs/kazmath/include/kazmath/GL/", 
+                    "suffix": "matrix.h"
+                }, 
+                "neon_matrix_impl.h": {
+                    "key": "neon_matrix_impl.h", 
+                    "prefix": "dkta/libs/kazmath/include/kazmath/", 
+                    "suffix": "neon_matrix_impl.h"
+                }, 
+                "plane.h": {
+                    "key": "plane.h", 
+                    "prefix": "dkta/libs/kazmath/include/kazmath/", 
+                    "suffix": "plane.h"
+                }, 
+                "quaternion.h": {
+                    "key": "quaternion.h", 
+                    "prefix": "dkta/libs/kazmath/include/kazmath/", 
+                    "suffix": "quaternion.h"
+                }, 
+                "ray2.h": {
+                    "key": "ray2.h", 
+                    "prefix": "dkta/libs/kazmath/include/kazmath/", 
+                    "suffix": "ray2.h"
+                }, 
+                "sceneTag.h": {
+                    "key": "sceneTag.h", 
+                    "prefix": "dkta/", 
+                    "suffix": "sceneTag.h"
+                }, 
+                "uthash.h": {
+                    "key": "uthash.h", 
+                    "prefix": "dkta/libs/cocos2d/Support/", 
+                    "suffix": "uthash.h"
+                }, 
+                "utility.h": {
+                    "key": "utility.h", 
+                    "prefix": "dkta/libs/kazmath/include/kazmath/", 
+                    "suffix": "utility.h"
+                }, 
+                "utlist.h": {
+                    "key": "utlist.h", 
+                    "prefix": "dkta/libs/cocos2d/Support/", 
+                    "suffix": "utlist.h"
+                }, 
+                "vec2.h": {
+                    "key": "vec2.h", 
+                    "prefix": "dkta/libs/kazmath/include/kazmath/", 
+                    "suffix": "vec2.h"
+                }, 
+                "vec3.h": {
+                    "key": "vec3.h", 
+                    "prefix": "dkta/libs/kazmath/include/kazmath/", 
+                    "suffix": "vec3.h"
+                }, 
+                "vec4.h": {
+                    "key": "vec4.h", 
+                    "prefix": "dkta/libs/kazmath/include/kazmath/", 
+                    "suffix": "vec4.h"
+                }
+            }, 
+            "type": "I"
+        }, 
+        {
+            "header_path": "dkta/libs", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "/var/folders/n2/0jjz6355063gtqw474h8hxcr0000gn/T/tmpOlg0Ar/BUILT_PRODUCTS_DIR/include", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "dkta/libs/kazmath/include", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "/var/folders/n2/0jjz6355063gtqw474h8hxcr0000gn/T/tmpOlg0Ar/DERIVED_FILE_DIR/armv7", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "/var/folders/n2/0jjz6355063gtqw474h8hxcr0000gn/T/tmpOlg0Ar/DERIVED_FILE_DIR", 
+            "type": "I"
+        }
+    ], 
+    "infoplists": [
+        "./dkta-testing.plist"
+    ], 
+    "libs": [
+        "z", 
+        "sqlite3", 
+        "xml2"
+    ], 
+    "modules": [], 
+    "pchs": [
+        "./dkta/Prefix.pch"
+    ], 
+    "sources": [
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc++", 
+            "source": "dkta/AppDelegate.mm"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc++", 
+            "source": "dkta/Background.mm"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc++", 
+            "source": "dkta/CCScrollLayer.mm"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc++", 
+            "source": "dkta/Cityscape.mm"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/GDataXMLNode.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc++", 
+            "source": "dkta/GLES-Render.mm"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/GameData.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/GameDataParser.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc++", 
+            "source": "dkta/HUDLayer.mm"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/IAPHelper.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc++", 
+            "source": "dkta/IntroLayer.mm"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/Level.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/LevelParser.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc++", 
+            "source": "dkta/LevelSelect.mm"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/Levels.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc++", 
+            "source": "dkta/Luggage.mm"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc++", 
+            "source": "dkta/MainMenu.mm"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc++", 
+            "source": "dkta/MatchingGame.mm"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc++", 
+            "source": "dkta/MyContactListener.mm"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc++", 
+            "source": "dkta/Puzzle.mm"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc++", 
+            "source": "dkta/Store.mm"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/StoryScenes/Scene00.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/StoryScenes/Scene01.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/StoryScenes/Scene02.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/StoryScenes/Scene03.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/StoryScenes/Scene04.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/StoryScenes/Scene05.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/StoryScenes/Scene06.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/StoryScenes/Scene07.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/StoryScenes/Scene08.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/TTIAPHelper.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc++", 
+            "source": "dkta/TinyTravelerIntro.mm"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc++", 
+            "source": "dkta/Weather.mm"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/WeatherData.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/WeatherDataParser.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc++", 
+            "source": "dkta/Words.mm"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Collision/Shapes/b2ChainShape.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Collision/Shapes/b2CircleShape.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Collision/Shapes/b2EdgeShape.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Collision/Shapes/b2PolygonShape.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Collision/b2BroadPhase.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Collision/b2CollideCircle.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Collision/b2CollideEdge.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Collision/b2CollidePolygon.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Collision/b2Collision.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Collision/b2Distance.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Collision/b2DynamicTree.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Collision/b2TimeOfImpact.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Common/b2BlockAllocator.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Common/b2Draw.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Common/b2Math.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Common/b2Settings.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Common/b2StackAllocator.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Common/b2Timer.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/Contacts/b2ChainAndCircleContact.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/Contacts/b2ChainAndPolygonContact.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/Contacts/b2CircleContact.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/Contacts/b2Contact.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/Contacts/b2ContactSolver.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/Contacts/b2EdgeAndCircleContact.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/Contacts/b2EdgeAndPolygonContact.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/Contacts/b2PolygonContact.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/Joints/b2DistanceJoint.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/Joints/b2FrictionJoint.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/Joints/b2GearJoint.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/Joints/b2Joint.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/Joints/b2MouseJoint.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/Joints/b2PrismaticJoint.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/Joints/b2PulleyJoint.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/Joints/b2RevoluteJoint.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/Joints/b2RopeJoint.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/Joints/b2WeldJoint.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/Joints/b2WheelJoint.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/b2Body.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/b2ContactManager.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/b2Fixture.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/b2Island.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/b2World.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Dynamics/b2WorldCallbacks.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c++", 
+            "source": "dkta/libs/Box2D/Rope/b2Rope.cpp"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/CocosDenshion/CDAudioManager.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/CocosDenshion/CDOpenALSupport.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/CocosDenshion/CDXMacOSXSupport.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/CocosDenshion/CDXPropertyModifierAction.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/CocosDenshion/CocosDenshion.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/CocosDenshion/SimpleAudioEngine.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCAction.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCActionCamera.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCActionCatmullRom.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCActionEase.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCActionGrid.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCActionGrid3D.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCActionInstant.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCActionInterval.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCActionManager.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCActionPageTurn3D.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCActionProgressTimer.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCActionTiledGrid.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCActionTween.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCAnimation.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCAnimationCache.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCAtlasNode.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCCamera.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCClippingNode.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCConfiguration.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCDirector.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCDrawNode.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCDrawingPrimitives.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCFontDefinition.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCGLProgram.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCGrabber.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCGrid.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCLabelAtlas.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCLabelBMFont.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCLabelTTF.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCLayer.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCMenu.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCMenuItem.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCMotionStreak.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCNode+Debug.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCNode.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCParallaxNode.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCParticleBatchNode.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCParticleExamples.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCParticleSystem.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCParticleSystemQuad.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCPhysicsDebugNode.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc++", 
+            "source": "dkta/libs/cocos2d/CCPhysicsSprite.mm"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCProgressTimer.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCRenderTexture.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCScene.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCScheduler.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCShaderCache.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCSprite.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCSpriteBatchNode.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCSpriteFrame.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCSpriteFrameCache.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCTMXLayer.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCTMXObjectGroup.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCTMXTiledMap.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCTMXXMLParser.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCTexture2D.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCTextureAtlas.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCTextureCache.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCTexturePVR.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCTileMapAtlas.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCTransition.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCTransitionPageTurn.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/CCTransitionProgress.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/Platforms/Mac/CCDirectorMac.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/Platforms/Mac/CCEventDispatcher.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/Platforms/Mac/CCGLView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/Platforms/Mac/CCWindow.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/Platforms/iOS/CCDirectorIOS.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/Platforms/iOS/CCES2Renderer.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/Platforms/iOS/CCGLView.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/Platforms/iOS/CCTouchHandler.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/Support/CCArray.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/Support/CCFileUtils.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/Support/CCProfiling.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/Support/CCVertex.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/Support/CGPointExtension.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/Support/NSThread+performBlock.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/Support/TGAlib.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/Support/TransformUtils.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/Support/ZipUtils.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c", 
+            "source": "dkta/libs/cocos2d/Support/base64.c"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/Support/ccCArray.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c", 
+            "source": "dkta/libs/cocos2d/Support/ccUtils.c"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/ccDeprecated.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/ccFPSImages.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/ccGLStateCache.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/ccShaders.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/libs/cocos2d/cocos2d.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c", 
+            "source": "dkta/libs/kazmath/src/GL/mat4stack.c"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c", 
+            "source": "dkta/libs/kazmath/src/GL/matrix.c"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c", 
+            "source": "dkta/libs/kazmath/src/aabb.c"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c", 
+            "source": "dkta/libs/kazmath/src/mat3.c"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c", 
+            "source": "dkta/libs/kazmath/src/mat4.c"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c", 
+            "source": "dkta/libs/kazmath/src/neon_matrix_impl.c"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c", 
+            "source": "dkta/libs/kazmath/src/plane.c"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c", 
+            "source": "dkta/libs/kazmath/src/quaternion.c"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c", 
+            "source": "dkta/libs/kazmath/src/ray2.c"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c", 
+            "source": "dkta/libs/kazmath/src/utility.c"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c", 
+            "source": "dkta/libs/kazmath/src/vec2.c"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c", 
+            "source": "dkta/libs/kazmath/src/vec3.c"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "c", 
+            "source": "dkta/libs/kazmath/src/vec4.c"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "dkta/main.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc++", 
+            "source": "dkta/sceneTag.mm"
+        }
+    ], 
+    "storyboards": [], 
+    "type": "app", 
+    "version": "3", 
+    "xcdatamodels": [], 
+    "xcode_project": "dkta.xcodeproj", 
+    "xibs": []
+}
